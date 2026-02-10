@@ -166,10 +166,4 @@ Then open `index.html` in your browser. Refresh after changes compile.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 _Built with TypeScript + Canvas 2D. No frameworks. No engine. Just math and pixels._

@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A top-down arena survivor shooter built with TypeScript and HTML5 Canvas 2D. No frameworks, no engine — just math and pixels.",
   "author": "sajal37",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/sajal37/Top-Down-Shooter.git"
